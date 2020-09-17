@@ -6,10 +6,13 @@
 
 
 #### -- Project Status: [Complete]
+### Model Deployed at: https://jse-dashboard.herokuapp.com/
 #### Project phases:
 - [x] Extract Data from JSE
 - [x] Format Data for analysis
 - [x] perform EDA of data
+- [x] Model Creation
+
 
 ## Project Intro
 The objective of this project was to create a streamlined approach for deriving financial analysis on stocks from the jamaica stock exchange.
